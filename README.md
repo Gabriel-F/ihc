@@ -8,5 +8,7 @@ Android: Exercícios 1:
 3. Atividade 3
 
 Android: Exercicios 2:
-1, 2 e 3 : AtividadeParte2
+1. AtividadeParte2
+2. AtividadeParte2
+3. AtividadeParte2
  
